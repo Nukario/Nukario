@@ -55,10 +55,6 @@ My name is Rafael but you may call me Rafa I'm from Mexico, and i really like to
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Nukario&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=5pr4f4&cover_image=true&theme=default" /></div>  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Nukario&&style=flat-square" align="center" />
 </div>  
